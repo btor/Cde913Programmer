@@ -7,7 +7,7 @@ Steps required:
 1. Compile and upload the program Cdce913Programmer.ino to a 3.3 V arduino board (e.g., MKRZERO, PI PICO, etc.)
 3. Generate the intel hex file with ClockPro https://www.ti.com/tool/de-de/CLOCKPRO#downloads
 4. Store file on your PC
-5. Connect the CDE913 hardware to the arduino board via i2c
+5. Connect the CDCE913 hardware to the arduino board via i2c
 6. Connect the arduino board to your PC
 7. Open Teraterm or an other terminal program, open serial port, baudrate = 9600
 8. Type H to list the available commands
